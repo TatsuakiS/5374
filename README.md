@@ -37,8 +37,8 @@
  今後スマートフォンのGPSから位置情報を取得する機能を追加する予定です。
  間違い・ご要望等ございましたら、下記よりご連絡くださいますようお願い致します。
 
-Code for Saitama
-https://www.facebook.com/groups...
-立正大学　地球環境科学部　環境システム学科　
- 後藤研（〒360-0194　埼玉県熊谷市万吉1700）
-Twitter : @gotshin 
+-Code for Saitama
+-https://www.facebook.com/groups...
+-立正大学　地球環境科学部　環境システム学科　
+- 後藤研（〒360-0194　埼玉県熊谷市万吉1700）
+-Twitter : @gotshin 
